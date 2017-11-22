@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/night5word/codecool/TW19_cpp/cpp-lightning-fast-word-finder-dojo-marcellBan/LightningWordFinder.hpp
+
+/home/night5word/codecool/TW19_cpp/cpp-lightning-fast-word-finder-dojo-marcellBan/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+cerrno
+-
+chrono
+-
+LightningWordFinder.hpp
+/home/night5word/codecool/TW19_cpp/cpp-lightning-fast-word-finder-dojo-marcellBan/LightningWordFinder.hpp
+

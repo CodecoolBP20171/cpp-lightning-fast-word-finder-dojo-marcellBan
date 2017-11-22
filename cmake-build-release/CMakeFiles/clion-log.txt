@@ -1,0 +1,4 @@
+/home/night5word/bin/clionIDE/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - Unix Makefiles" /home/night5word/codecool/TW19_cpp/cpp-lightning-fast-word-finder-dojo-marcellBan
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/night5word/codecool/TW19_cpp/cpp-lightning-fast-word-finder-dojo-marcellBan/cmake-build-release
